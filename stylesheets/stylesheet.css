@@ -245,3 +245,11 @@ a {
 .cf {
   zoom:1;
 }
+
+.languages {
+    text-align: center;
+}
+
+.languages .active {
+    opacity: 0.38;
+}
